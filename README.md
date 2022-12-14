@@ -30,8 +30,9 @@ Finding the answers to each question requires multiple iterations.
 
 
 <details>
-<summary>**Answers (spoiler warning)**</summary>
-    `{1: 'c',
+<summary><b>Answers (spoiler warning)</b></summary>
+
+    1: 'c',
     2: 'f',
     3: 'g',
     4: 'c',
@@ -69,7 +70,8 @@ Finding the answers to each question requires multiple iterations.
     36: 'a',
     37: 'f',
     38: 'a',
-    39: 'f'}`
+    39: 'f'
+    
 </details>
 
 ### Use for finances automation
