@@ -19,7 +19,7 @@ from selenium.webdriver.support import expected_conditions as EC
 #   https://book.pythontips.com/en/latest/context_managers.html
 class AutomatedWebpage(object):
 	def __init__(self, url):
-		self.driver = webdriver.Chrome()
+		self.driver = webdriver.Chrome('/home/lyubo/script/selenium/chromedriver_v97')
 		self.driver.get(url)
 	def __enter__(self):
 		return self.driver
