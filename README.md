@@ -28,8 +28,9 @@ Finding the answers to each question requires multiple iterations.
         - If the score decreases relative to when we answered `A` (78), that means `A` was actually the correct answer and we are done with this question.  This occurs when we pick `B`, so it doesn't take too long.
 - Once we know the correct answer for each question, we can enter them all and get the high score, 141!
 
-**Answers (spoiler warning)**
-    <details>
+
+<details>
+<summary>**Answers (spoiler warning)**</summary>
     `{1: 'c',
     2: 'f',
     3: 'g',
@@ -69,7 +70,7 @@ Finding the answers to each question requires multiple iterations.
     37: 'f',
     38: 'a',
     39: 'f'}`
-    </details>
+</details>
 
 ### Use for finances automation
 I was excited to use Selenium for scraping my bank and credit card websites, but grew wary when reading about how [websites may attempt to detect usage of Selenium](https://old.reddit.com/r/Python/comments/ov73ci/selenium_with_python_security/h78emig/) (or specific webdriver implementations) to prevent bots.  I decided not to risk it with my financial services websites, as I do not want my accounts closed.  Use of Selenium for this project was unfortunately off of the table.
