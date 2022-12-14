@@ -17,6 +17,7 @@ I wrote this script to learn Selenium basics and also to see if I could figure o
 **Note** I needed to [download a specific version of the Chrome chromedriver](https://chromedriver.chromium.org/downloads) for use with my version of Google Chrome!  To run this project, you will need to download the chromedriver that matches your own version of Chrome.
 
 **Strategy**
+
 Finding the answers to each question requires multiple iterations.
 
 - During the first iteration, answer `A` for each of the 39 questions.  Note the IQ score presented at the end (79).
@@ -71,7 +72,7 @@ Finding the answers to each question requires multiple iterations.
     37: 'f',
     38: 'a',
     39: 'f'
-    
+
 </details>
 
 ### Use for finances automation
